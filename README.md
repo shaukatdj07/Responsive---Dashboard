@@ -11,7 +11,6 @@ A modern, fully responsive admin dashboard built with Flutter. This dashboard pr
 - **📱 Fully Responsive Design** – Adapts beautifully to all screen sizes
 - **🎨 Modern UI/UX** – Clean, professional interface with intuitive navigation
 - **📊 Data Visualization** – Interactive charts and statistics display
-- **🌓 Theme Support** – Light and dark mode compatibility
 - **⚡ Performance Optimized** – Smooth animations and fast loading
 - **🔧 Multi-platform** – Built with Flutter for cross-platform compatibility
 
@@ -70,10 +69,6 @@ For support, questions, or feedback:
 - Open an issue in the GitHub repository
 - Check the Flutter documentation for development guidance
 
-⭐ Show Your Support
-If you find this project useful, please give it a star on GitHub!
-
-Built with ❤️ using Flutter
 
 ## ⭐ Show Your Support
 
